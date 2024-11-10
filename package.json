@@ -1,0 +1,20 @@
+{
+  "name": "juft",
+  "version": "1.0.0",
+  "main": "numbers.js",
+  "scripts": {
+    "dev": "node numbers.js",
+    "prod": "nodemon numbers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bekzod",
+  "license": "ISC",
+  "description": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "uuid": "^11.0.2"
+  }
+}
